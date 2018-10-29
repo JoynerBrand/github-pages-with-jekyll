@@ -12,4 +12,4 @@ github_username:  JoynerBrand
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minima  # jekyll-theme-hacker
+theme: minima
